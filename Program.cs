@@ -17,4 +17,8 @@ namespace WindowsFormsApp1
             Application.Run(new Formulario());
         }
     }
+
+    internal class Formulario : Form
+    {
+    }
 }
